@@ -1,0 +1,13 @@
+.int{
+    width: 100%;
+    height: 300px;
+    background: rgb(190, 190, 190);
+    margin-top: 20px;
+}
+.p{
+    text-overflow: inherit;
+    margin-left: 10px;
+    text-size-adjust: 2px;
+    line-height: 23px;
+    font-weight: 500;
+}

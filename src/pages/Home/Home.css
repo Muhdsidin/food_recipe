@@ -1,0 +1,61 @@
+.rectangle-12,
+.rectangle-12 * {
+  box-sizing: border-box;
+}
+.rectangle-12 {
+  background: #ffffff;
+  border-radius: 8px;
+  width: 1050px;
+  align-items:center;
+  height: 76px;
+  display:flex;
+  box-shadow: 2px 4px 18px 0px rgba(0, 0, 0, 0.25);
+  margin-left: 10%;
+}
+#user-input{
+    width:500px;
+    height:50px;
+    margin-left:45px;
+    padding-left:20px;
+    border-radius:4px;
+    border:1px solid silver;
+    font-size:17px;
+    outline:none;
+    box-shadow:1px 1px 4px 1px ;
+}
+#Category{
+    height:50px;
+    border-radius:5px;
+    width:120px;
+    margin-left:30px;
+    padding:10px;
+    font-size:15px;
+}
+.bx-search-alt-2{
+    font-size:30px;
+    margin-left:-40px;
+}
+.bx-bell{
+    font-size: 50px;
+    margin-left:20px;
+    padding:10px;
+    background-color: #FFD600;
+    border-radius:50%;
+}
+.bx-cart{
+    font-size:35px;
+    margin-left:20px;
+    border-radius:50%;
+    padding:8.4px;
+    background-color: #FFD600;
+}
+.login-btn{
+    width:120px;
+    height:45px;
+    border-radius:5px;
+    margin-left:40px;
+    border:none;
+    color: white;
+    font-size:17px;
+    background-color: #B8CB40;
+}
